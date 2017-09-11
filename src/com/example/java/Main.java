@@ -22,7 +22,7 @@ public class Main {
             userChoice = in.nextInt();
 
             System.out.println("You chose: ");
-
+                        //display the users choice
             switch(userChoice){
                 case 1:
                     System.out.println("A Regular Burger.");
